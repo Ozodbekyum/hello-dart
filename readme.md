@@ -15,7 +15,7 @@ Automated grading of homework assignments and tests
 - just push and check answer
 
 # Instructions
-Write a program that prints "Hello World".
+Write a program that prints `"Hello World"`.
 
 # Warning
 - don't copy other solutions or any solution
